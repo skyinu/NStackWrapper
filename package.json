@@ -2,7 +2,7 @@
   "name": "nstackwrapper",
   "version": "0.0.1",
   "description": "a tool to wrap ndk-stack tool",
-  "main": "index.js",
+  "main": "/bin/nstack.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,5 +18,6 @@
   "bugs": {
     "url": "https://github.com/skyinu/NStackWrapper/issues"
   },
-  "homepage": "https://github.com/skyinu/NStackWrapper#readme"
+  "homepage": "https://github.com/skyinu/NStackWrapper#readme",
+  "dependencies": {}
 }
