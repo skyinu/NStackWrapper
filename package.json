@@ -3,8 +3,8 @@
   "version": "0.0.2",
   "description": "a tool to wrap ndk-stack tool",
   "main": "/bin/nstack.js",
-  "bin" : {
-    "nstack" : "/bin/nstack.js"
+  "bin": {
+    "nstack": "/bin/nstack.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
