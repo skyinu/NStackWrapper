@@ -1,6 +1,6 @@
 {
   "name": "nstackwrapper",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "a tool to wrap ndk-stack tool",
   "main": "/bin/nstack.js",
   "bin": {
