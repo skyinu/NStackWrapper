@@ -7,6 +7,6 @@ wrap ndk stack tool with node
 
 ## Usage
 
---p:输入Android项目的application module的目录,例如D:\software\androidCode\RunMap\app\src\main,`必选`
---s:输入native crash log文件,`必选`
---n:指定ndk路径,`非必选`
++ --p:输入Android项目的application module的目录,例如D:\software\androidCode\RunMap\app\src\main,`必选`
++ --s:输入native crash log文件,`必选`
++ --n:指定ndk路径,`非必选`
